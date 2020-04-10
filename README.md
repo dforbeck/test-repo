@@ -1,2 +1,2 @@
 # test-repo
-# This id my test repo from Salesforce trail.
+# This is my test repo from Salesforce trail.
